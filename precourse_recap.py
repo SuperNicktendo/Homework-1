@@ -1,6 +1,3 @@
-from unittest.mock import NonCallableMagicMock
-
-
 name = "Nick"
 age = 35
 dog_years = (age - 1) * 5
